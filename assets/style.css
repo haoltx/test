@@ -1,0 +1,97 @@
+
+#inputName{
+font-size:32px;
+text-align: center;
+font-weight: normal;
+color: #000000;
+border-radius:10px;
+background-color: #ffffff;
+border: none;
+}
+
+#inputName:focus {
+    outline: none;
+}
+#chatBox{
+font-size:32px;
+text-align: left;
+font-weight: normal;
+color: #000000;
+border-radius:10px;
+background-color: #ffffff;
+border: none;
+}
+#chatBox:focus {
+    outline: none;
+}
+
+#dropdownComment{
+font-size:32px;
+text-align: left;
+font-weight: normal;
+color: #000000;
+border-radius:10px;
+background-color: #ffffff;
+border: none;
+}
+#dropdownComment:focus {
+    outline: none;
+}
+
+
+
+
+
+/* 定义输入框占位文本的样式 */
+#inputName::-webkit-input-placeholder {
+  /* Safari、Chrome 和 Opera */
+  color: #999999;
+}
+#inputName:-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  color: #999999;
+}
+#inputName::-moz-placeholder {
+  /* Firefox 18- */
+  color: #999999;
+}
+#inputName:-moz-placeholder {
+  /* Firefox 19+ */
+  color: #999999;
+}
+
+/* 定义输入框占位文本的样式 */
+#chatBox::-webkit-input-placeholder {
+  /* Safari、Chrome 和 Opera */
+  color: #999999;
+}
+#chatBox:-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  color: #999999;
+}
+#chatBox::-moz-placeholder {
+  /* Firefox 18- */
+  color: #999999;
+}
+#chatBox:-moz-placeholder {
+  /* Firefox 19+ */
+  color: #999999;
+}
+
+/* 定义输入框占位文本的样式 */
+#dropdownComment:-webkit-input-placeholder {
+  /* Safari、Chrome 和 Opera */
+  color: #999999;
+}
+#dropdownComment:-ms-input-placeholder {
+  /* Internet Explorer 10+ */
+  color: #999999;
+}
+#dropdownComment:-moz-placeholder {
+  /* Firefox 18- */
+  color: #999999;
+}
+#dropdownComment:-moz-placeholder {
+  /* Firefox 19+ */
+  color: #999999;
+}
